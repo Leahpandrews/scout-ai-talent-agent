@@ -1,3 +1,3 @@
-examples/
+examples/README.md
 ├── synthetic-candidate-input.csv
 └── sample-ranked-output.csv
