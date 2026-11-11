@@ -105,7 +105,7 @@ The system is intentionally designed around **human review, evidence traceabilit
           ▼
          Human Review
 ```
-
+![Scout System Workflow](diagrams/scout-system-workflow.png)
 ---
 
 ## Agent Modes
